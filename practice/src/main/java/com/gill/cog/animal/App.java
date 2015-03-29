@@ -1,4 +1,4 @@
-package com.gill.cog.practice;
+package com.gill.cog.animal;
 
 /**
  * Hello world!

@@ -1,4 +1,4 @@
-package com.gill.cog.practice;
+package com.gill.cog.animal;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

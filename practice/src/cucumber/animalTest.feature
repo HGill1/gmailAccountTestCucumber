@@ -1,4 +1,4 @@
-Feature: practicing tests
+Feature: animal website tests
 
   Scenario: tests animal avialbality
     Given I navigate to website

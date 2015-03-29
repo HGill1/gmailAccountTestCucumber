@@ -1,4 +1,4 @@
-package com.gill.cog.practice.test;
+package com.gill.cog.animal.test;
 
 import static org.junit.Assert.assertTrue;
 

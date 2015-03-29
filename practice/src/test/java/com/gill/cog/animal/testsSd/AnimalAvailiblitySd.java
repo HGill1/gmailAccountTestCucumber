@@ -1,12 +1,12 @@
-package com.gill.cog.practice.testsSd;
+package com.gill.cog.animal.testsSd;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-import com.gill.cog.practice.pageObject.AdoptionPage;
-import com.gill.cog.practice.pageObject.AdoptionResultPage;
-import com.gill.cog.practice.pageObject.HomePage;
-import com.gill.cog.practice.test.AbstractTest;
+import com.gill.cog.animal.pageObject.AdoptionPage;
+import com.gill.cog.animal.pageObject.AdoptionResultPage;
+import com.gill.cog.animal.pageObject.HomePage;
+import com.gill.cog.animal.test.AbstractTest;
 
 import cucumber.api.java.After;
 import cucumber.api.java.Before;

@@ -1,4 +1,4 @@
-package com.gill.cog.practice.pageObject;
+package com.gill.cog.animal.pageObject;
 
 import java.util.List;
 

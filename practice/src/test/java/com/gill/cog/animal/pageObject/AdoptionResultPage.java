@@ -1,4 +1,4 @@
-package com.gill.cog.practice.pageObject;
+package com.gill.cog.animal.pageObject;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

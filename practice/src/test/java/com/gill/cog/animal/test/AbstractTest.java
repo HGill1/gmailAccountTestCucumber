@@ -1,11 +1,11 @@
-package com.gill.cog.practice.test;
+package com.gill.cog.animal.test;
 
 import org.junit.After;
 import org.junit.Before;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-import com.gill.cog.practice.pageObject.HomePage;
+import com.gill.cog.animal.pageObject.HomePage;
 
 public class AbstractTest {
 	protected static WebDriver driver;
